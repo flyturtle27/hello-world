@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Flyturtle here, I like C/C++ and deep leaing.
